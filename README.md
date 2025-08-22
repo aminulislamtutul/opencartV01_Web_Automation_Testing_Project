@@ -36,3 +36,5 @@ The framework supports:
 ├── run.bat                        → Batch file for execution
 └── README.md                      → Project documentation
 ```
+##  Setup & Execution
+### 1️⃣ Clone the repository
