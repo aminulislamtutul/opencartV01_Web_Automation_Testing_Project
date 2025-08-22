@@ -14,3 +14,25 @@ The framework supports:
 - Parallel execution with Selenium Grid & Docker
 - Jenkins CI/CD integration
 - Extent Reporting & TestNG Listeners
+## Project Structure
+```
+├── src/test/java/                 → Test scripts & page objects
+│   ├── pageObjects/               → POM classes
+│   ├── testBase/                  → Base setup class
+│   ├── testCases/                 → TestNG test cases
+│   └── utilities/                 → Helper classes (Excel, Reports)
+├── src/test/resources/            → Config & log4j files
+│   ├── config.properties/         → URL/PWD/Environment
+│   └── log4j2.xml/                → Log4j execution logs
+├── TestData/                      → Test data files (Excel)
+├── reports/                       → HTML Extent Reports
+├── screenshots/                   → Captured screenshots on failures
+├── logs/                          → Log4j execution logs
+├── test-output/                   → TestNG default reports
+├── docker-compose.yaml            → Docker Grid setup
+├── docker-grid.xml                → Grid execution config
+├── pom.xml                        → Maven dependencies & plugins
+├── master.xml                     → Master TestNG suite
+├── run.bat                        → Batch file for execution
+└── README.md                      → Project documentation
+```
