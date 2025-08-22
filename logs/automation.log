@@ -1,0 +1,50 @@
+2025-08-22 12:40:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\eclipse-workspace\opencartV01\docker-grid.xml
+
+2025-08-22 12:40:50 WARN  TestAccountRegistrationPage_TC001:101 - verifyAccounRegistration skipped
+2025-08-22 12:40:56 WARN  TestAccountLoginPage_TC002:101 - verifyLogin skipped
+2025-08-22 12:41:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\eclipse-workspace\opencartV01\docker-grid.xml
+
+2025-08-22 12:42:03 INFO  TestAccountRegistrationPage_TC001:15 - ****Starting TestAccountRegistrationPageTC001****
+2025-08-22 12:42:03 INFO  TestAccountRegistrationPage_TC001:18 - Clicking on My Account Link..
+2025-08-22 12:42:03 INFO  TestAccountRegistrationPage_TC001:20 - Clicking on Register Link..
+2025-08-22 12:42:04 INFO  TestAccountRegistrationPage_TC001:25 - Providing Customer Details..
+2025-08-22 12:42:07 INFO  TestAccountRegistrationPage_TC001:39 - Validating Expected Massage..
+2025-08-22 12:42:07 INFO  TestAccountRegistrationPage_TC001:58 - ****Ending TestAccountRegistrationPageTC001****
+2025-08-22 12:42:07 INFO  TestAccountRegistrationPage_TC001:68 - verifyAccounRegistration executed successfully
+2025-08-22 12:42:09 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
+2025-08-22 12:42:09 INFO  TestAccountLoginPage_TC002:17 - Clicking on My Account Link..
+2025-08-22 12:42:09 INFO  TestAccountLoginPage_TC002:19 - Clicking on Login Link..
+2025-08-22 12:42:11 INFO  TestAccountLoginPage_TC002:35 - ****End TestAccountLoginPageTC002****
+2025-08-22 12:42:11 INFO  TestAccountLoginPage_TC002:68 - verifyLogin executed successfully
+2025-08-22 12:54:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\eclipse-workspace\opencartV01\docker-grid.xml
+
+2025-08-22 12:54:22 INFO  TestAccountRegistrationPage_TC001:15 - ****Starting TestAccountRegistrationPageTC001****
+2025-08-22 12:54:22 INFO  TestAccountRegistrationPage_TC001:18 - Clicking on My Account Link..
+2025-08-22 12:54:23 INFO  TestAccountRegistrationPage_TC001:20 - Clicking on Register Link..
+2025-08-22 12:54:23 INFO  TestAccountRegistrationPage_TC001:25 - Providing Customer Details..
+2025-08-22 12:54:26 INFO  TestAccountRegistrationPage_TC001:39 - Validating Expected Massage..
+2025-08-22 12:54:26 INFO  TestAccountRegistrationPage_TC001:58 - ****Ending TestAccountRegistrationPageTC001****
+2025-08-22 12:54:26 INFO  TestAccountRegistrationPage_TC001:68 - verifyAccounRegistration executed successfully
+2025-08-22 12:54:28 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
+2025-08-22 12:54:28 INFO  TestAccountLoginPage_TC002:17 - Clicking on My Account Link..
+2025-08-22 12:54:28 INFO  TestAccountLoginPage_TC002:19 - Clicking on Login Link..
+2025-08-22 12:54:29 INFO  TestAccountLoginPage_TC002:35 - ****End TestAccountLoginPageTC002****
+2025-08-22 12:54:29 INFO  TestAccountLoginPage_TC002:68 - verifyLogin executed successfully
+2025-08-22 12:56:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\eclipse-workspace\opencartV01\docker-grid.xml
+
+2025-08-22 12:56:03 INFO  TestAccountRegistrationPage_TC001:15 - ****Starting TestAccountRegistrationPageTC001****
+2025-08-22 12:56:03 INFO  TestAccountRegistrationPage_TC001:18 - Clicking on My Account Link..
+2025-08-22 12:56:03 INFO  TestAccountRegistrationPage_TC001:20 - Clicking on Register Link..
+2025-08-22 12:56:04 INFO  TestAccountRegistrationPage_TC001:25 - Providing Customer Details..
+2025-08-22 12:56:07 INFO  TestAccountRegistrationPage_TC001:39 - Validating Expected Massage..
+2025-08-22 12:56:07 INFO  TestAccountRegistrationPage_TC001:58 - ****Ending TestAccountRegistrationPageTC001****
+2025-08-22 12:56:07 INFO  TestAccountRegistrationPage_TC001:68 - verifyAccounRegistration executed successfully
+2025-08-22 12:56:09 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
+2025-08-22 12:56:09 INFO  TestAccountLoginPage_TC002:17 - Clicking on My Account Link..
+2025-08-22 12:56:09 INFO  TestAccountLoginPage_TC002:19 - Clicking on Login Link..
+2025-08-22 12:56:10 INFO  TestAccountLoginPage_TC002:35 - ****End TestAccountLoginPageTC002****
+2025-08-22 12:56:10 INFO  TestAccountLoginPage_TC002:68 - verifyLogin executed successfully
