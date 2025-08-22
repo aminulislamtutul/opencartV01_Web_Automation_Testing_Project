@@ -62,3 +62,8 @@ docker-compose up -d
 ```bash
 mvn clean test -DsuiteXmlFile=docker-grid.xml
 ```
+## Reports & Logs
+- Extent Reports → `reports/`
+- Screenshots on Failure → `screenshots/`
+- Log file → `logs/automation.log`
+- TestNG Reports → `test-output/`
