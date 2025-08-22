@@ -68,4 +68,4 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 - Log file → `logs/automation.log`
 - TestNG Reports → `test-output/`
 <img width="958" height="419" alt="Screenshot 2025-08-23 012811" src="https://github.com/user-attachments/assets/5496447f-73ae-46fd-96b9-9280db17f33e" />
-
+## CI/CD with Jenkins
