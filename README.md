@@ -38,3 +38,27 @@ The framework supports:
 ```
 ##  Setup & Execution
 ### 1️⃣ Clone the repository
+```
+https://github.com/aminulislamtutul/opencartV01_Web_Automation_Testing_Project.git
+```
+### 2️⃣ Install dependencies
+
+```bash
+mvn clean install
+```
+* **Using run.bat**
+
+```bash
+run.bat
+```
+##  Docker + Selenium Grid Execution
+### Run Grid
+
+```bash
+docker-compose up -d
+```
+### Execute Tests on Grid
+
+```bash
+mvn clean test -DsuiteXmlFile=docker-grid.xml
+```
