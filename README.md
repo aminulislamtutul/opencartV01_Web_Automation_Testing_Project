@@ -77,3 +77,9 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 ```bash
 mvn clean test -DsuiteXmlFile=master.xml
 ```
+4. View execution & reports in Jenkins
+<img width="1353" height="595" alt="JenkinsConfiguration" src="https://github.com/user-attachments/assets/d062c266-8762-4af7-afee-d1599a2efb4b" />
+
+## Test Cases Implemented
+
+
