@@ -81,5 +81,12 @@ mvn clean test -DsuiteXmlFile=master.xml
 <img width="1353" height="595" alt="JenkinsConfiguration" src="https://github.com/user-attachments/assets/d062c266-8762-4af7-afee-d1599a2efb4b" />
 
 ## Test Cases Implemented
+* ** TestAccountRegistrationPage_TC001** → Validate account registration
+* ** TestAccountLoginPage_TC002** → Validate login with valid credentials
+* ** DDTestAccountLoginPage_TC003** → Validate login with multiple data sets (Excel-driven)
+## Future Enhancements
+* Integrate with **Allure Reports**
+* Add support for **API Testing**
+* Enable **Cloud Execution** (BrowserStack/SauceLabs)
 
 
